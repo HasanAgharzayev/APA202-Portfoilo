@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hesen\\source\\repos\\06-InterfaceAbstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B387AE1-76B5-8F39-D1BA-0EDEBEAFC2A9}|06-InterfaceAbstraction\\06-InterfaceAbstraction.csproj|c:\\users\\hesen\\source\\repos\\06-interfaceabstraction\\06-interfaceabstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B387AE1-76B5-8F39-D1BA-0EDEBEAFC2A9}|06-InterfaceAbstraction\\06-InterfaceAbstraction.csproj|solutionrelative:06-interfaceabstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B387AE1-76B5-8F39-D1BA-0EDEBEAFC2A9}|06-InterfaceAbstraction\\06-InterfaceAbstraction.csproj|c:\\users\\hesen\\source\\repos\\06-interfaceabstraction\\06-interfaceabstraction\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B387AE1-76B5-8F39-D1BA-0EDEBEAFC2A9}|06-InterfaceAbstraction\\06-InterfaceAbstraction.csproj|solutionrelative:06-interfaceabstraction\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B387AE1-76B5-8F39-D1BA-0EDEBEAFC2A9}|06-InterfaceAbstraction\\06-InterfaceAbstraction.csproj|c:\\users\\hesen\\source\\repos\\06-interfaceabstraction\\06-interfaceabstraction\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B387AE1-76B5-8F39-D1BA-0EDEBEAFC2A9}|06-InterfaceAbstraction\\06-InterfaceAbstraction.csproj|solutionrelative:06-interfaceabstraction\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICalculation.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\source\\repos\\06-InterfaceAbstraction\\06-InterfaceAbstraction\\ICalculation.cs",
+              "RelativeDocumentMoniker": "06-InterfaceAbstraction\\ICalculation.cs",
+              "ToolTip": "C:\\Users\\hesen\\source\\repos\\06-InterfaceAbstraction\\06-InterfaceAbstraction\\ICalculation.cs",
+              "RelativeToolTip": "06-InterfaceAbstraction\\ICalculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:47:59.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\source\\repos\\06-InterfaceAbstraction\\06-InterfaceAbstraction\\Calculation.cs",
+              "RelativeDocumentMoniker": "06-InterfaceAbstraction\\Calculation.cs",
+              "ToolTip": "C:\\Users\\hesen\\source\\repos\\06-InterfaceAbstraction\\06-InterfaceAbstraction\\Calculation.cs",
+              "RelativeToolTip": "06-InterfaceAbstraction\\Calculation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:46:38.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\source\\repos\\06-InterfaceAbstraction\\06-InterfaceAbstraction\\Program.cs",
+              "RelativeDocumentMoniker": "06-InterfaceAbstraction\\Program.cs",
+              "ToolTip": "C:\\Users\\hesen\\source\\repos\\06-InterfaceAbstraction\\06-InterfaceAbstraction\\Program.cs",
+              "RelativeToolTip": "06-InterfaceAbstraction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:27:34.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

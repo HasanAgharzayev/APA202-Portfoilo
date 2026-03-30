@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hesen\\source\\repos\\AbstractClassPolymorphismForEach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03FFF4FB-5AAB-8E68-C812-762243CDC420}|AbstractClassPolymorphismForEach\\AbstractClassPolymorphismForEach.csproj|c:\\users\\hesen\\source\\repos\\abstractclasspolymorphismforeach\\abstractclasspolymorphismforeach\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FFF4FB-5AAB-8E68-C812-762243CDC420}|AbstractClassPolymorphismForEach\\AbstractClassPolymorphismForEach.csproj|solutionrelative:abstractclasspolymorphismforeach\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FFF4FB-5AAB-8E68-C812-762243CDC420}|AbstractClassPolymorphismForEach\\AbstractClassPolymorphismForEach.csproj|c:\\users\\hesen\\source\\repos\\abstractclasspolymorphismforeach\\abstractclasspolymorphismforeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FFF4FB-5AAB-8E68-C812-762243CDC420}|AbstractClassPolymorphismForEach\\AbstractClassPolymorphismForEach.csproj|solutionrelative:abstractclasspolymorphismforeach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\source\\repos\\AbstractClassPolymorphismForEach\\AbstractClassPolymorphismForEach\\Vehicle.cs",
+              "RelativeDocumentMoniker": "AbstractClassPolymorphismForEach\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\hesen\\source\\repos\\AbstractClassPolymorphismForEach\\AbstractClassPolymorphismForEach\\Vehicle.cs",
+              "RelativeToolTip": "AbstractClassPolymorphismForEach\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:41:29.007Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hesen\\source\\repos\\AbstractClassPolymorphismForEach\\AbstractClassPolymorphismForEach\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClassPolymorphismForEach\\Program.cs",
+              "ToolTip": "C:\\Users\\hesen\\source\\repos\\AbstractClassPolymorphismForEach\\AbstractClassPolymorphismForEach\\Program.cs",
+              "RelativeToolTip": "AbstractClassPolymorphismForEach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:39:24.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

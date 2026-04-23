@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f3efe3;
+  font-family: Georgia, serif;
+}
+
+.poster {
+  text-align: center;
+  padding-top: 120px;
+}
+
+
+.small-top {
+  font-size: 22px;
+  letter-spacing: 5px;
+  color: #b08a3c;
+  margin: 0;
+}
+
+
+.title {
+  font-size: 90px;
+  font-style: italic;
+  margin: 10px 0;
+  color: #222;
+}
+
+
+.subtitle {
+  font-size: 28px;
+  letter-spacing: 6px;
+  color: #b08a3c;
+  margin: 10px 0;
+}
+
+
+.text {
+  font-size: 20px;
+  letter-spacing: 3px;
+  color: #111;
+  margin-top: 20px;
+}
+
+
+.bottom {
+  margin-top: 40px;
+  font-size: 18px;
+  font-style: italic;
+  color: #a07a3a;
+}

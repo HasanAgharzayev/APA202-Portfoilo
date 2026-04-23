@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fff;
+    margin: 0;
+    padding: 40px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+    align-items: flex-start;
+}
+
+.left {
+    width: 30%;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.blue {
+    color: #3b6eea;
+}
+
+.right {
+    width: 65%;
+    font-size: 14px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.italic {
+    font-style: italic;
+}

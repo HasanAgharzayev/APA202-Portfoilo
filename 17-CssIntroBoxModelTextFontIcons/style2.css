@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+/* arxa plan gradient */
+.background {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #6dd5ed, #8e2de2);
+}
+
+/* login qutusu */
+.login-box {
+    width: 300px;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    position: relative;
+    text-align: center;
+}
+
+/* close button */
+.close {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* inputlar */
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* login button */
+button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    background: linear-gradient(to right, #6dd5ed, #8e2de2);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* linklər */
+.forgot {
+    display: block;
+    text-align: left;
+    font-size: 12px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #4a7bd1;
+}
+
+p {
+    font-size: 12px;
+    margin-top: 15px;
+}

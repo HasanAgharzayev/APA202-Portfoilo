@@ -1,77 +1,102 @@
 *{
-    margin:0;
-    padding:0;
-    box-sizing:border-box;
-    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
 }
 
 .container{
-    width:90%;
-    margin:auto;
+    width: 90%;
+    margin: 30px auto;
 }
 
+/* TOP BAR */
 .top{
-    display:flex;
-    justify-content:space-between;
-    margin:20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
 }
 
+.top p{
+    font-size: 14px;
+}
+
+.top select{
+    padding: 5px;
+}
+
+/* GRID */
 .grid{
-    display:grid;
-    grid-template-columns: repeat(4,1fr); /* BURASI DÜZƏLDİ */
-    gap:25px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
 }
 
+/* CARD */
 .card{
-    background:#f6f6f6;
-    padding:15px;
-    text-align:center;
-    position:relative;
+    background: #f7f7f7;
+    padding: 15px;
+    text-align: center;
+    position: relative;
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.03);
 }
 
 .card img{
-    width:100%;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
 }
 
 .card h4{
-    font-size:15px;
-    margin:10px 0;
+    margin: 10px 0;
+    font-size: 15px;
 }
 
+/* STARS */
 .stars{
-    font-size:14px;
-    color:#ccc;
+    font-size: 14px;
+    color: #ccc;
 }
 
 .stars.colored{
-    color:orange;
+    color: orange;
 }
 
+/* PRICE */
 .card p{
-    margin-top:5px;
-    font-weight:bold;
+    margin-top: 5px;
+    font-weight: bold;
 }
 
+/* SALE LABEL */
 .sale{
-    position:absolute;
-    top:10px;
-    left:10px;
-    background:black;
-    color:white;
-    font-size:12px;
-    padding:4px 6px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: black;
+    color: white;
+    font-size: 11px;
+    padding: 4px 6px;
 }
 
+/* PAGINATION */
 .pagination{
-    text-align:center;
-    margin:30px 0;
+    text-align: center;
+    margin-top: 30px;
 }
 
 .pagination span{
-    margin:5px;
-    cursor:pointer;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 14px;
 }
 
 .pagination .active{
-    font-weight:bold;
+    font-weight: bold;
+    text-decoration: underline;
 }

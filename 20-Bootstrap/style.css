@@ -1,0 +1,193 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+    scroll-behavior: smooth;
+}
+
+/* NAVBAR */
+header {
+    background: #222;
+    color: white;
+    padding: 15px 50px;
+    position: sticky;
+    top: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    color: white;
+    margin-left: 15px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: orange;
+}
+
+/* HERO */
+.hero {
+    height: 100vh;
+    background: url("https://picsum.photos/1600/900") center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.hero-content {
+    animation: fadeIn 2s ease;
+}
+
+.hero button {
+    margin-top: 15px;
+    padding: 12px 25px;
+    background: orange;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.hero button:hover {
+    background: darkorange;
+    transform: scale(1.05);
+}
+
+/* ABOUT */
+.about {
+    padding: 60px;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+/* SERVICES */
+.services {
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 220px;
+    padding: 30px 20px;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+.card i {
+    font-size: 40px;
+    color: orange;
+    margin-bottom: 15px;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+/* PORTFOLIO */
+.portfolio {
+    padding: 60px;
+    text-align: center;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.gallery img {
+    width: 300px;
+    transition: 0.3s;
+}
+
+.gallery img:hover {
+    transform: scale(1.1);
+    opacity: 0.8;
+}
+
+/* CONTACT */
+.contact {
+    padding: 80px 20px;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+.contact form {
+    max-width: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.contact input,
+.contact textarea {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contact button {
+    padding: 12px;
+    background: orange;
+    border: none;
+    cursor: pointer;
+}
+
+.contact button:hover {
+    background: darkorange;
+}
+
+/* FOOTER */
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* ANIMATION */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+    nav {
+        display: none;
+    }
+
+    .cards {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .gallery img {
+        width: 90%;
+    }
+}

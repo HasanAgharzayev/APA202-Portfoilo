@@ -508,3 +508,16 @@ C:\Users\hesen\OneDrive\Desktop\27-FrontToBackSqlConnection\27-FrontToBackSqlCon
 C:\Users\hesen\OneDrive\Desktop\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.pdb
 C:\Users\hesen\OneDrive\Desktop\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.genruntimeconfig.cache
 C:\Users\hesen\OneDrive\Desktop\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\ref\27-FrontToBackSqlConnection.dll
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.csproj.AssemblyReference.cache
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.AssemblyInfoInputs.cache
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.AssemblyInfo.cs
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.csproj.CoreCompileInputs.cache
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.RazorAssemblyInfo.cache
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.RazorAssemblyInfo.cs
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.sourcelink.json
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.dll
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\refint\27-FrontToBackSqlConnection.dll
+C:\Users\hesen\OneDrive\Desktop\Potrfolio\27-FrontToBackSqlConnection\27-FrontToBackSqlConnection\obj\Debug\net10.0\27-FrontToBackSqlConnection.pdb

@@ -32,7 +32,7 @@ namespace _27_FrontToBackSqlConnection.Controllers
             List<Product> products= _context.Products
                  .Where(s => !s.IsDeleted)
                 .Take(4)
-                .Include(p=>p.ProductImages)
+                .Include(p=>p.ProductImages.Where(pi=>pi.IsPrimary!=null))
                 .ToList();
 
 

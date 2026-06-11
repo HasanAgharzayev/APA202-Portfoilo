@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoftLanding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b8162784f62cbceeb5820e37b6fbfbc07521b3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41eccd1a1e3fbf8f1b33bee00d88f5566dc5b98a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoftLanding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoftLanding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
